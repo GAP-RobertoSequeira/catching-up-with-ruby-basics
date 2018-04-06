@@ -38,5 +38,10 @@ There is a folder with the code reviewed every session.
   - File
   - Dir
   - IO
+- [Session 8](http://education.wearegap.com/videos/115)
+  - Numeric
+  - Date/Time
+  - System interaction/Shell  
+  - Regexp  
 
 [Catching up with Ruby Basics Playlist](https://www.youtube.com/playlist?list=PL0nQogAvp5Py30gkjOR7Ya9b4NXomMVbY) including all videos
