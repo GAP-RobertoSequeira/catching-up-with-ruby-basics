@@ -14,7 +14,7 @@ There is a folder with the code reviewed every session.
 - [Session 2](http://education.wearegap.com/videos/99)
 - [Session 3](http://education.wearegap.com/videos/100)
 - [Session 4](http://education.wearegap.com/videos/101)
-- Session 5 (Pending to be recorded)
+- [Session 5](http://education.wearegap.com/videos/166)
 - [Session 6](http://education.wearegap.com/videos/102)
 - [Session 7](http://education.wearegap.com/videos/104)
 
