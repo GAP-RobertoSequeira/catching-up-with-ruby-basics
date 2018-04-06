@@ -12,7 +12,7 @@ puts arr.any?                     # true
 p arr.push('1')                   # ["a", "b", "c", "d", "1"]
 p arr.pop                         # "1"
 
-p arr.unshift('0')                # [0, "a", "b", "c", "d", "1"]
+p arr.unshift('0')                # [0, "a", "b", "c", "d"]
 p arr.shift                       # "0"
 
 p arr.combination(3).to_a         # [["a", "b", "c"], ["a", "b", "d"], ["a", "c", "d"], ["b", "c", "d"]]
